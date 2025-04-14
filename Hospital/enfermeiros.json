@@ -1,0 +1,247 @@
+[
+    {
+        "id_enfermeiro": "ENF001",
+        "nome": "Joana Pereira",
+        "coren": "123456-SP",
+        "especialidade": "Cuidados Intensivos",
+        "email": "joana.pereira@hospital.com",
+        "telefone": "11987654321",
+        "internacoes": [
+            {
+                "id_internacao": "INT001",
+                "paciente_id": "P01",
+                "medico_id": "SP123456",
+                "data_internacao": "2016-03-20T08:00:00Z",
+                "duracao_dias": 5,
+                "motivo": "Hipertensão descontrolada",
+                "observacoes": "Monitoramento de pressão e ajuste de medicação",
+                "quarto": "101A"
+            },
+            {
+                "id_internacao": "INT004",
+                "paciente_id": "P01",
+                "medico_id": "SP123456",
+                "data_internacao": "2017-11-10T09:00:00Z",
+                "duracao_dias": 6,
+                "motivo": "Complicação de hipotireoidismo",
+                "observacoes": "Monitoramento contínuo e reposição hormonal",
+                "quarto": "101A"
+            }
+        ]
+    },
+    {
+        "id_enfermeiro": "ENF002",
+        "nome": "Carlos Oliveira",
+        "coren": "654321-SP",
+        "especialidade": "Cuidados Geriátricos",
+        "email": "carlos.oliveira@hospital.com",
+        "telefone": "11998765432",
+        "internacoes": [
+            {
+                "id_internacao": "INT002",
+                "paciente_id": "P03",
+                "medico_id": "SP987654",
+                "data_internacao": "2018-07-15T10:00:00Z",
+                "duracao_dias": 4,
+                "motivo": "Descompensação do diabetes tipo 2",
+                "observacoes": "Controle glicêmico e reposição hídrica",
+                "quarto": "202B"
+            },
+            {
+                "id_internacao": "INT007",
+                "paciente_id": "P03",
+                "medico_id": "SP987654",
+                "data_internacao": "2021-01-15T11:00:00Z",
+                "duracao_dias": 5,
+                "motivo": "Complicações do diabetes tipo 2",
+                "observacoes": "Controle glicêmico intensivo",
+                "quarto": "202B"
+            }
+        ]
+    },
+    {
+        "id_enfermeiro": "ENF003",
+        "nome": "Mariana Souza",
+        "coren": "789012-SP",
+        "especialidade": "Emergência",
+        "email": "mariana.souza@hospital.com",
+        "telefone": "11976543210",
+        "internacoes": [
+            {
+                "id_internacao": "INT003",
+                "paciente_id": "P04",
+                "medico_id": "SP456789",
+                "data_internacao": "2019-05-25T15:00:00Z",
+                "duracao_dias": 3,
+                "motivo": "Crise de enxaqueca severa",
+                "observacoes": "Administração de analgésicos e repouso",
+                "quarto": "303C"
+            },
+            {
+                "id_internacao": "INT006",
+                "paciente_id": "P06",
+                "medico_id": "SP141516",
+                "data_internacao": "2019-09-12T10:30:00Z",
+                "duracao_dias": 3,
+                "motivo": "Anemia severa",
+                "observacoes": "Transfusões sanguíneas e investigação da causa",
+                "quarto": "303C"
+            }
+        ]
+    },
+    [
+        {
+            "id_enfermeiro": "ENF001",
+            "nome": "Joana Pereira",
+            "coren": "123456-SP",
+            "especialidade": "Cuidados Intensivos",
+            "email": "joana.pereira@hospital.com",
+            "telefone": "11987654321",
+            "internacoes": [
+                {
+                    "id_internacao": "INT001",
+                    "paciente_id": "P01",
+                    "medico_id": "SP123456",
+                    "data_internacao": "2016-03-20T08:00:00Z",
+                    "duracao_dias": 5,
+                    "motivo": "Hipertensão descontrolada",
+                    "observacoes": "Monitoramento de pressão e ajuste de medicação",
+                    "quarto": "101A"
+                },
+                {
+                    "id_internacao": "INT004",
+                    "paciente_id": "P01",
+                    "medico_id": "SP123456",
+                    "data_internacao": "2017-11-10T09:00:00Z",
+                    "duracao_dias": 6,
+                    "motivo": "Complicação de hipotireoidismo",
+                    "observacoes": "Monitoramento contínuo e reposição hormonal",
+                    "quarto": "101A"
+                }
+            ]
+        },
+        {
+            "id_enfermeiro": "ENF002",
+            "nome": "Carlos Oliveira",
+            "coren": "654321-SP",
+            "especialidade": "Cuidados Geriátricos",
+            "email": "carlos.oliveira@hospital.com",
+            "telefone": "11998765432",
+            "internacoes": [
+                {
+                    "id_internacao": "INT002",
+                    "paciente_id": "P03",
+                    "medico_id": "SP987654",
+                    "data_internacao": "2018-07-15T10:00:00Z",
+                    "duracao_dias": 4,
+                    "motivo": "Descompensação do diabetes tipo 2",
+                    "observacoes": "Controle glicêmico e reposição hídrica",
+                    "quarto": "202B"
+                },
+                {
+                    "id_internacao": "INT007",
+                    "paciente_id": "P03",
+                    "medico_id": "SP987654",
+                    "data_internacao": "2021-01-15T11:00:00Z",
+                    "duracao_dias": 5,
+                    "motivo": "Complicações do diabetes tipo 2",
+                    "observacoes": "Controle glicêmico intensivo",
+                    "quarto": "202B"
+                }
+            ]
+        },
+        {
+            "id_enfermeiro": "ENF003",
+            "nome": "Mariana Souza",
+            "coren": "789012-SP",
+            "especialidade": "Emergência",
+            "email": "mariana.souza@hospital.com",
+            "telefone": "11976543210",
+            "internacoes": [
+                {
+                    "id_internacao": "INT003",
+                    "paciente_id": "P04",
+                    "medico_id": "SP456789",
+                    "data_internacao": "2019-05-25T15:00:00Z",
+                    "duracao_dias": 3,
+                    "motivo": "Crise de enxaqueca severa",
+                    "observacoes": "Administração de analgésicos e repouso",
+                    "quarto": "303C"
+                },
+                {
+                    "id_internacao": "INT006",
+                    "paciente_id": "P06",
+                    "medico_id": "SP141516",
+                    "data_internacao": "2019-09-12T10:30:00Z",
+                    "duracao_dias": 3,
+                    "motivo": "Anemia severa",
+                    "observacoes": "Transfusões sanguíneas e investigação da causa",
+                    "quarto": "303C"
+                }
+            ]
+        },
+        {
+            "id_enfermeiro": "ENF004",
+            "nome": "Rafael Lima",
+            "coren": "345678-SP",
+            "especialidade": "Pediatria",
+            "email": "rafael.lima@hospital.com",
+            "telefone": "11965432109",
+            "internacoes": []
+        },
+        {
+            "id_enfermeiro": "ENF005",
+            "nome": "Ana Cláudia Melo",
+            "coren": "234567-SP",
+            "especialidade": "Clínica Geral",
+            "email": "ana.melo@hospital.com",
+            "telefone": "11954321098",
+            "internacoes": []
+        },
+        {
+            "id_enfermeiro": "ENF006",
+            "nome": "Luiz Henrique Campos",
+            "coren": "567890-SP",
+            "especialidade": "Cuidados Cirúrgicos",
+            "email": "luiz.campos@hospital.com",
+            "telefone": "11943210987",
+            "internacoes": []
+        },
+        {
+            "id_enfermeiro": "ENF007",
+            "nome": "Fernanda Martins",
+            "coren": "901234-SP",
+            "especialidade": "Oncologia",
+            "email": "fernanda.martins@hospital.com",
+            "telefone": "11932109876",
+            "internacoes": []
+        },
+        {
+            "id_enfermeiro": "ENF008",
+            "nome": "Paula Andrade",
+            "coren": "456789-SP",
+            "especialidade": "Obstetrícia",
+            "email": "paula.andrade@hospital.com",
+            "telefone": "11921098765",
+            "internacoes": []
+        },
+        {
+            "id_enfermeiro": "ENF009",
+            "nome": "Ricardo Gonçalves",
+            "coren": "678901-SP",
+            "especialidade": "Emergência",
+            "email": "ricardo.goncalves@hospital.com",
+            "telefone": "11910987654",
+            "internacoes": []
+        },
+        {
+            "id_enfermeiro": "ENF010",
+            "nome": "Carolina Ferreira",
+            "coren": "345679-SP",
+            "especialidade": "Clínica Geral",
+            "email": "carolina.ferreira@hospital.com",
+            "telefone": "11909876543",
+            "internacoes": []
+        }
+    ]
+]
