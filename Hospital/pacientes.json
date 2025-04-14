@@ -1,0 +1,542 @@
+[
+    {
+    "paciente": {
+        "paciente_id": "P01",
+        "nome": "Maria Silva",
+        "idade": 35,
+        "genero": "Feminino",
+        "cpf": "12345678901",
+        "telefone": "11987654321",
+        "email": "maria.silva@gmail.com",
+        "tipo_sanguineo": "O+",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "Unimed",
+                "cnpj": "12345678900012",
+                "tempo_carencia": "2 meses",
+                "numero_carteira": "543210987"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Amoxicilina",
+                "observacao": "Alergia a antibióticos",
+                "reacao": "Erupção cutânea"
+            }
+        },
+        "endereco": {
+            "logradouro": "Avenida Paulista",
+            "numero": "1000",
+            "complemento": "Apartamento 12B",
+            "bairro": "Bela Vista",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "01311923"
+        }
+    }
+},
+{
+    "paciente": {
+        "paciente_id": "P02",
+        "nome": "João Santos",
+        "idade": 42,
+        "genero": "Masculino",
+        "cpf": "98765432100",
+        "telefone": "11998765432",
+        "email": "joao.santos@hotmail.com",
+        "tipo_sanguineo": "A-",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "Amil",
+                "cnpj": "23456789000123",
+                "tempo_carencia": "6 meses",
+                "numero_carteira": "234567891"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Glúten",
+                "observacao": "Sensibilidade alimentar",
+                "reacao": "Desconforto gastrointestinal"
+            }
+        },
+        "endereco": {
+            "logradouro": "Rua das Flores",
+            "numero": "45",
+            "complemento": null,
+            "bairro": "Jardim Europa",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "01446000"
+        }
+    }
+},
+{
+    "paciente": {
+        "paciente_id": "P03",
+        "nome": "Ana Souza",
+        "idade": 29,
+        "genero": "Feminino",
+        "cpf": "56789012345",
+        "telefone": "11976543210",
+        "email": "ana.souza@outlook.com",
+        "tipo_sanguineo": "B+",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "SulAmérica Saúde",
+                "cnpj": "34567890123456",
+                "tempo_carencia": "3 meses",
+                "numero_carteira": "678901234"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Lactose",
+                "observacao": "Intolerância alimentar",
+                "reacao": "Dor abdominal"
+            }
+        },
+        "endereco": {
+            "logradouro": "Rua XV de Novembro",
+            "numero": "250",
+            "complemento": null,
+            "bairro": "Centro",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "01013001"
+        }
+    }
+},
+{
+    "paciente": {
+        "paciente_id": "P04",
+        "nome": "Carlos Oliveira",
+        "idade": 50,
+        "genero": "Masculino",
+        "cpf": "34567890123",
+        "telefone": "11965432109",
+        "email": "carlos.oliveira@yahoo.com",
+        "tipo_sanguineo": "AB-",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "Bradesco Saúde",
+                "cnpj": "23456789000122",
+                "tempo_carencia": "4 meses",
+                "numero_carteira": "567890123"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Pólen",
+                "observacao": "Alergia sazonal",
+                "reacao": "Espirros e coceira"
+            }
+        },
+        "endereco": {
+            "logradouro": "Avenida Brigadeiro Faria Lima",
+            "numero": "1500",
+            "complemento": "Conjunto 1001",
+            "bairro": "Pinheiros",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "01452000"
+        }
+    }
+},
+{
+    "paciente": {
+        "paciente_id": "P05",
+        "nome": "Beatriz Almeida",
+        "idade": 21,
+        "genero": "Feminino",
+        "cpf": "78901234567",
+        "telefone": "11954321098",
+        "email": "beatriz.almeida@gmail.com",
+        "tipo_sanguineo": "O-",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "Unimed",
+                "cnpj": "12345678900012",
+                "tempo_carencia": "1 mês",
+                "numero_carteira": "890123456"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Peixe",
+                "observacao": "Reação alimentar",
+                "reacao": "Inchaço facial"
+            }
+        },
+        "endereco": {
+            "logradouro": "Rua dos Pinheiros",
+            "numero": "800",
+            "complemento": "Sala 10",
+            "bairro": "Pinheiros",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "05422001"
+        }
+    }
+},
+{
+    "paciente": {
+        "paciente_id": "P06",
+        "nome": "Ricardo Pereira",
+        "idade": 38,
+        "genero": "Masculino",
+        "cpf": "21098765432",
+        "telefone": "11943210987",
+        "email": "ricardo.pereira@outlook.com",
+        "tipo_sanguineo": "A+",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "SulAmérica Saúde",
+                "cnpj": "34567890123456",
+                "tempo_carencia": "2 meses",
+                "numero_carteira": "901234567"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Penicilina",
+                "observacao": "Alergia a antibióticos",
+                "reacao": "Dificuldade respiratória"
+            }
+        },
+        "endereco": {
+            "logradouro": "Avenida Ibirapuera",
+            "numero": "2500",
+            "complemento": null,
+            "bairro": "Moema",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "04029001"
+        }
+    }
+},
+{
+    "paciente": {
+        "paciente_id": "P07",
+        "nome": "Fernanda Lima",
+        "idade": 45,
+        "genero": "Feminino",
+        "cpf": "65432109876",
+        "telefone": "11932109876",
+        "email": "fernanda.lima@hotmail.com",
+        "tipo_sanguineo": "B-",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "Amil",
+                "cnpj": "23456789000123",
+                "tempo_carencia": "5 meses",
+                "numero_carteira": "123456789"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Frutos do mar",
+                "observacao": "Reação grave",
+                "reacao": "Anafilaxia"
+            }
+        },
+        "endereco": {
+            "logradouro": "Rua Augusta",
+            "numero": "350",
+            "complemento": null,
+            "bairro": "Consolação",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "01305000"
+        }
+    }
+},
+{
+    "paciente": {
+        "paciente_id": "P08",
+        "nome": "Pedro Costa",
+        "idade": 31,
+        "genero": "Masculino",
+        "cpf": "89012345678",
+        "telefone": "11921098765",
+        "email": "pedro.costa@gmail.com",
+        "tipo_sanguineo": "AB+",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "Bradesco Saúde",
+                "cnpj": "34567890100012",
+                "tempo_carencia": "3 meses",
+                "numero_carteira": "567890321"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Ácaros",
+                "observacao": "Alergia respiratória",
+                "reacao": "Dificuldade respiratória leve"
+            }
+        },
+        "endereco": {
+            "logradouro": "Avenida Angélica",
+            "numero": "100",
+            "complemento": "Conjunto 500",
+            "bairro": "Santa Cecília",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "01227000"
+        }
+    }
+},
+{
+    "paciente": {
+        "paciente_id": "P09",
+        "nome": "Juliana Ferreira",
+        "idade": 28,
+        "genero": "Feminino",
+        "cpf": "32109876543",
+        "telefone": "11910987654",
+        "email": "juliana.ferreira@outlook.com",
+        "tipo_sanguineo": "O+",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "Amil",
+                "cnpj": "45678901234567",
+                "tempo_carencia": "4 meses",
+                "numero_carteira": "0987654321"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Picada de insetos",
+                "observacao": "Reação moderada",
+                "reacao": "Vermelhidão e coceira"
+            }
+        },
+        "endereco": {
+            "logradouro": "Rua Maranhão",
+            "numero": "45",
+            "complemento": "Casa",
+            "bairro": "Higienópolis",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "01240000"
+        }
+    }
+},
+{
+    "paciente": {
+        "paciente_id": "P10",
+        "nome": "Lucas Mendes",
+        "idade": 40,
+        "genero": "Masculino",
+        "cpf": "43210987654",
+        "telefone": "11909876543",
+        "email": "lucas.mendes@hotmail.com",
+        "tipo_sanguineo": "A-",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "Unimed",
+                "cnpj": "56789012345678",
+                "tempo_carencia": "1 mês",
+                "numero_carteira": "9876543210"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Morango",
+                "observacao": "Reação alimentar leve",
+                "reacao": "Coceira"
+            }
+        },
+        "endereco": {
+            "logradouro": "Avenida Rio Branco",
+            "numero": "999",
+            "complemento": null,
+            "bairro": "Centro Histórico",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "01002000"
+        }
+    }
+},
+{
+    "paciente": {
+        "paciente_id": "P11",
+        "nome": "Camila Rodrigues",
+        "idade": 26,
+        "genero": "Feminino",
+        "cpf": "54321098765",
+        "telefone": "11987654320",
+        "email": "camila.rodrigues@gmail.com",
+        "tipo_sanguineo": "B+",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "SulAmérica Saúde",
+                "cnpj": "67890123456789",
+                "tempo_carencia": "2 meses",
+                "numero_carteira": "8765432109"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Aspirina",
+                "observacao": "Alergia medicamentosa",
+                "reacao": "Urticária"
+            }
+        },
+        "endereco": {
+            "logradouro": "Rua Oscar Freire",
+            "numero": "250",
+            "complemento": "Loja 5",
+            "bairro": "Cerqueira César",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "01426001"
+        }
+    }
+},
+{
+    "paciente": {
+        "paciente_id": "P12",
+        "nome": "Felipe Nascimento",
+        "idade": 33,
+        "genero": "Masculino",
+        "cpf": "65432109876",
+        "telefone": "11976543219",
+        "email": "felipe.nascimento@outlook.com",
+        "tipo_sanguineo": "AB+",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "Bradesco Saúde",
+                "cnpj": "78901234567890",
+                "tempo_carencia": "3 meses",
+                "numero_carteira": "7654321098"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Nozes",
+                "observacao": "Reação alimentar grave",
+                "reacao": "Anafilaxia"
+            }
+        },
+        "endereco": {
+            "logradouro": "Avenida Roberto Marinho",
+            "numero": "1234",
+            "complemento": "Cobertura",
+            "bairro": "Brooklin",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "04572000"
+        }
+    }
+},
+{
+    "paciente": {
+        "paciente_id": "P13",
+        "nome": "Laura Martins",
+        "idade": 37,
+        "genero": "Feminino",
+        "cpf": "76543210987",
+        "telefone": "11965432108",
+        "email": "laura.martins@hotmail.com",
+        "tipo_sanguineo": "O-",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "Unimed",
+                "cnpj": "89012345678901",
+                "tempo_carencia": "1 mês",
+                "numero_carteira": "6543210987"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Gatos",
+                "observacao": "Alergia a animais",
+                "reacao": "Espirros"
+            }
+        },
+        "endereco": {
+            "logradouro": "Rua Teodoro Sampaio",
+            "numero": "300",
+            "complemento": null,
+            "bairro": "Pinheiros",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "05406000"
+        }
+    }
+},
+{
+    "paciente": {
+        "paciente_id": "P14",
+        "nome": "Gabriel Silva",
+        "idade": 22,
+        "genero": "Masculino",
+        "cpf": "87654321098",
+        "telefone": "11954321097",
+        "email": "gabriel.silva@gmail.com",
+        "tipo_sanguineo": "A+",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "Amil",
+                "cnpj": "45678901200034",
+                "tempo_carencia": "2 meses",
+                "numero_carteira": "8901234567"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Ovos",
+                "observacao": "Intolerância leve",
+                "reacao": "Dor abdominal"
+            }
+        },
+        "endereco": {
+            "logradouro": "Rua Normandia",
+            "numero": "100",
+            "complemento": "Apartamento 3B",
+            "bairro": "Moema",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "04517000"
+        }
+    }
+},
+{
+    "paciente": {
+        "paciente_id": "P15",
+        "nome": "Rafaela Carvalho",
+        "idade": 30,
+        "genero": "Feminino",
+        "cpf": "98765432109",
+        "telefone": "11943210986",
+        "email": "rafaela.carvalho@outlook.com",
+        "tipo_sanguineo": "O-",
+        "convenios": {
+            "subconvenio1": {
+                "nome": "Unimed",
+                "cnpj": "12345678000155",
+                "tempo_carencia": "1 mês",
+                "numero_carteira": "7654321980"
+            }
+        },
+        "alergias": {
+            "subalergia1": {
+                "alergia": "Latex",
+                "observacao": "Contato com materiais",
+                "reacao": "Coceira e vermelhidão"
+            }
+        },
+        "endereco": {
+            "logradouro": "Avenida Santo Amaro",
+            "numero": "1540",
+            "complemento": "Sala 12",
+            "bairro": "Brooklin",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "04556000"
+        }
+    }
+}
+]
