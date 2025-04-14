@@ -1,0 +1,163 @@
+[
+    {
+      "id_quarto": "101A",
+      "tipo": "Apartamento",
+      "andar": 1,
+      "capacidade_maxima": 1,
+      "equipamentos": ["Monitor cardíaco", "Bomba de infusão"],
+      "valor_diaria": 400
+    },
+    {
+      "id_quarto": "102B",
+      "tipo": "Enfermaria",
+      "andar": 1,
+      "capacidade_maxima": 3,
+      "equipamentos": ["Oxigênio central", "Ventilador pulmonar"],
+      "valor_diaria": 200
+    },
+    {
+      "id_quarto": "202A",
+      "tipo": "Quarto duplo",
+      "andar": 2,
+      "capacidade_maxima": 2,
+      "equipamentos": ["Monitor cardíaco", "Sistema de aquecimento"],
+      "valor_diaria": 300
+    },
+    {
+      "id_quarto": "203C",
+      "tipo": "Apartamento",
+      "andar": 2,
+      "capacidade_maxima": 1,
+      "equipamentos": ["Mesa para refeições", "TV com canais a cabo"],
+      "valor_diaria": 450
+    },
+    {
+      "id_quarto": "301B",
+      "tipo": "Enfermaria",
+      "andar": 3,
+      "capacidade_maxima": 4,
+      "equipamentos": ["Oxigênio central", "Sistema de iluminação ajustável"],
+      "valor_diaria": 180
+    },
+    {
+      "id_quarto": "302A",
+      "tipo": "Quarto duplo",
+      "andar": 3,
+      "capacidade_maxima": 2,
+      "equipamentos": ["Monitor de saturação", "TV com canais a cabo"],
+      "valor_diaria": 320
+    },
+    {
+      "id_quarto": "303C",
+      "tipo": "Apartamento",
+      "andar": 3,
+      "capacidade_maxima": 1,
+      "equipamentos": ["Cama ajustável", "Sistema de chamada de enfermagem"],
+      "valor_diaria": 500
+    },
+    {
+      "id_quarto": "401A",
+      "tipo": "Apartamento",
+      "andar": 4,
+      "capacidade_maxima": 1,
+      "equipamentos": ["Bomba de infusão", "Sistema de oxigênio portátil"],
+      "valor_diaria": 420
+    },
+    {
+      "id_quarto": "402B",
+      "tipo": "Quarto duplo",
+      "andar": 4,
+      "capacidade_maxima": 2,
+      "equipamentos": ["Monitor cardíaco", "Mesa para refeições"],
+      "valor_diaria": 350
+    },
+    {
+      "id_quarto": "403C",
+      "tipo": "Enfermaria",
+      "andar": 4,
+      "capacidade_maxima": 5,
+      "equipamentos": ["Ventilador pulmonar", "Sistema de iluminação ajustável"],
+      "valor_diaria": 150
+    },
+    {
+      "id_quarto": "501A",
+      "tipo": "Apartamento",
+      "andar": 5,
+      "capacidade_maxima": 1,
+      "equipamentos": ["Ventilador pulmonar", "Cama hospitalar elétrica"],
+      "valor_diaria": 450
+    },
+    {
+      "id_quarto": "502B",
+      "tipo": "Enfermaria",
+      "andar": 5,
+      "capacidade_maxima": 3,
+      "equipamentos": ["Oxigênio central", "Monitor de sinais vitais"],
+      "valor_diaria": 200
+    },
+    {
+      "id_quarto": "503C",
+      "tipo": "Quarto duplo",
+      "andar": 5,
+      "capacidade_maxima": 2,
+      "equipamentos": ["Sistema de chamada de enfermagem", "Mesa para refeições"],
+      "valor_diaria": 340
+    },
+    {
+      "id_quarto": "601A",
+      "tipo": "Apartamento",
+      "andar": 6,
+      "capacidade_maxima": 1,
+      "equipamentos": ["Monitor cardíaco", "Ventilador pulmonar portátil"],
+      "valor_diaria": 470
+    },
+    {
+      "id_quarto": "602B",
+      "tipo": "Enfermaria",
+      "andar": 6,
+      "capacidade_maxima": 4,
+      "equipamentos": ["Sistema de aquecimento", "Luzes ajustáveis"],
+      "valor_diaria": 160
+    },
+    {
+      "id_quarto": "603C",
+      "tipo": "Quarto duplo",
+      "andar": 6,
+      "capacidade_maxima": 2,
+      "equipamentos": ["Cama hospitalar ajustável", "Mesa auxiliar"],
+      "valor_diaria": 320
+    },
+    {
+      "id_quarto": "701A",
+      "tipo": "Apartamento",
+      "andar": 7,
+      "capacidade_maxima": 1,
+      "equipamentos": ["Monitor de saturação", "Sistema de oxigênio portátil"],
+      "valor_diaria": 400
+    },
+    {
+      "id_quarto": "702B",
+      "tipo": "Enfermaria",
+      "andar": 7,
+      "capacidade_maxima": 3,
+      "equipamentos": ["Oxigênio central", "Sistema de iluminação ajustável"],
+      "valor_diaria": 180
+    },
+    {
+      "id_quarto": "703C",
+      "tipo": "Quarto duplo",
+      "andar": 7,
+      "capacidade_maxima": 2,
+      "equipamentos": ["Monitor cardíaco", "Bomba de infusão"],
+      "valor_diaria": 310
+    },
+    {
+      "id_quarto": "704A",
+      "tipo": "Apartamento",
+      "andar": 7,
+      "capacidade_maxima": 1,
+      "equipamentos": ["TV com canais a cabo", "Mesa de refeições ajustável"],
+      "valor_diaria": 460
+    }
+  ]
+  
